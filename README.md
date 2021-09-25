@@ -1,4 +1,5 @@
 # Component Generator for Django Web Applications
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=martimvalente)](https://github.com/martimvalente/github-readme-stats)
 
 This is a script to generate html snippets to be used within a Django Project, or any Django-like apps that support similar HTML features.
 
@@ -24,3 +25,6 @@ project
 Future upgrades may inclue a JS controller to improve the workflow.
 
 Feel free to fork this and do stuff with it.
+
+
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=martimvalente)](https://github.com/martimvalente/github-readme-stats)
