@@ -1,6 +1,6 @@
 # Component Generator for Django Web Applications
 
-This is a script to generate html snippets to be used within a Django Project, or any Django-like apps that support similar HTML features.
+This is a script to generate html snippets to be used within a Django Project, or any Django-like frameworks that support similar HTML features.
 
 The script will follow the **BASE_DIR > Templates > Components**
 The directory layout should look somehow like this:
